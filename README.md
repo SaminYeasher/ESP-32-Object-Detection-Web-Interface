@@ -1,4 +1,7 @@
 # ESP-32-Object-Detection-Web-Interface
+
+Electric Device Dataset is available(public) for access : https://studio.edgeimpulse.com/public/745683/live
+
 Software & Libraries need to be downloaded:
 
 •	Arduino IDE: Used as the development environment for writing, compiling, and uploading the C++ code.
@@ -14,3 +17,4 @@ Software & Libraries need to be downloaded:
 •	ArduinoJSON: A library for creating and parsing JSON data, used for the system's API endpoints.
 
 IP address: http://192.168.48.226/
+
